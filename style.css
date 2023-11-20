@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Nunito';
+}
+
+body{
+}
+
+header{
+    width: 100%;
+    height: 100vh;
+    background-color: lightskyblue;
+    padding: 1px;
+}
+header h1{
+    width: 100%;
+    margin-top: 45vh;
+    text-align: center;
+    font-size: 200%;
+}
+header p{
+    width: 100%;
+    text-align: center;
+    margin-top: 2vh;
+    font-size: 200%;
+}
+
+section{
+    width: 100%;
+    height: 70vh;
+    padding: 1px;
+    background-color: navy;
+}
+.taiskl{
+    font-size: 300%;
+    display: block;
+    margin-top: 5vh;
+    text-align: center;
+    color: white;
+}
+.pTaiskl{
+    font-size: 200%;
+    display: block;
+    margin-top: 5vh;
+    text-align: center;
+    color: white;
+}
+.pvz{
+    font-size: 200%;
+    margin-top: 7vh;
+    text-align: center;
+    color: white;
+}
